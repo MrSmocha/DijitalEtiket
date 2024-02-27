@@ -1,0 +1,17 @@
+#include <Wire.h> 
+#include <LiquidCrystal_I2C.h>
+
+LiquidCrystal_I2C lcd(0x27, 16, 2);
+
+void setup() {
+  lcd.begin();
+  lcd.backlight();
+  lcd.setCursor(0, 0);
+  lcd.print("ESP32 Dual-Mode");
+  lcd.setCursor(0, 1); // İkinci satıra geç
+  lcd.print("232.96 TL");
+}
+
+void loop() {
+  // Bu kısımda ek işlemler yapabilirsiniz
+}

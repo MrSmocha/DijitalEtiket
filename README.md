@@ -10,5 +10,9 @@ Kullanılan Teknolojiler
 Projenin Faydaları
 
     Kağıt israfını önler: Dijital etiketler kağıt kullanımını azaltır ve çevre dostudur.
-    Çalışanların ekstra mesai yapmasını engeller: Otomatik güncellenen etiketler sayesinde çalışanların manuel olarak etiketleri değiştirmesine gerek kalmaz.
-    Verimliliği artırır: Dijital etiketlerin hızlı ve kolay bir şekilde güncellenmesi, iş süreçlerini hızlandırır ve verimliliği artırır.
+    
+    Çalışanların ekstra mesai yapmasını engeller: Otomatik güncellenen etiketler sayesinde 
+    çalışanların manuel olarak etiketleri değiştirmesine gerek kalmaz.
+    
+    Verimliliği artırır: Dijital etiketlerin hızlı ve kolay bir şekilde güncellenmesi, 
+    iş süreçlerini hızlandırır ve verimliliği artırır.

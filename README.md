@@ -3,9 +3,14 @@ Proje Tanımı  Bu proje, kağıt israfını önlemek ve çalışanların ekstra
 
 Kullanılan Teknolojiler
 
-    Arduino: Arduino, etiketlerin kontrolünü ve veri gönderimini sağlamak için kullanılmaktadır.
-    LCD Ekranlar: LCD ekranlar, etiketler üzerinde bilgileri görüntülemek için kullanılmaktadır.
-    Yazılım Dilleri: Arduino programlamada C/C++ dilini, LCD ekranlar için ise gerekli kütüphaneleri kullanmaktayız.
+    Arduino: 
+    Arduino, etiketlerin kontrolünü ve veri gönderimini sağlamak için kullanılmaktadır.
+    
+    LCD Ekranlar: 
+    LCD ekranlar, etiketler üzerinde bilgileri görüntülemek için kullanılmaktadır.
+    
+    Yazılım Dilleri:
+    Arduino programlamada C/C++ dilini, LCD ekranlar için ise gerekli kütüphaneleri kullanmaktayız.
 
 Projenin Faydaları
 
